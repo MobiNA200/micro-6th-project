@@ -36,7 +36,7 @@ void loop() {
 ```
 
 ## شماتیک مدار :
-![shema](./shematic/photos%20of%20shema/6-2.jpg)
+![shema](/shematic/photos%20of%20shema/6-2.jpg)
 
 ## عکس و گیف از آزمایش :
 
