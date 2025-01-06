@@ -41,5 +41,4 @@ void loop() {
 ## عکس و گیف از آزمایش :
 
 
-![photo](./photos%20&%20videos%20of%20project/20241112_122658.jpg)
 ![gif](./photos%20&%20videos%20of%20project/LM35-ezgif.com-video-to-gif-converter%20(1).gif)
